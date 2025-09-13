@@ -21,7 +21,13 @@
 
 - Waveforms confirmed correct inverter and NAND3 logic operation.     
 
-### Delay and Power Results (Trials)
+**Average Propagation Delay calculations**
+<img width="491" height="173" alt="image" src="https://github.com/user-attachments/assets/3133924b-9658-41f1-8b29-37bd37c0e59b" />   
+
+<img width="522" height="209" alt="image" src="https://github.com/user-attachments/assets/abf8b405-e125-4d2d-bdb6-c194e8d3564d" />   
+
+
+**Delay and Power Results**
 
 | Circuit   | Wp (nm) | Wn (nm) | tpHL (ps) | tpLH (ps) | Avg. Delay (ps) | Avg. Power (nW) |
 |-----------|---------|---------|-----------|-----------|-----------------|-----------------|
@@ -30,7 +36,6 @@
 | NAND3     | 100     | 100     | 12.19     | 11.26     | 11.72           | 533             |
 | NAND3     | 160     | 180     | 10.09     | 10.01     | 10.05           | 316             |
   
-
 **Conclusion**  
 - Both circuits were successfully implemented in **45nm CMOS technology**.  
 - By resizing transistors, nearly equal rising and falling delays were achieved, showing how **transistor sizing affects power-performance balance** in digital VLSI design.  
