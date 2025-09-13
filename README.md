@@ -15,7 +15,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - **Analysis**: propagation delay, power, energy-delay product (EDP), and optimization  
 
 ## 🧪 Labs & Projects
-- Lab 1: 4-bit Prime Number Detector & 1 Detector  
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/tree/70423858a51e91ff2017a019bbcd6f1524b9db7c/Lab1_PrimeNumberDetector">Lab 1: 4-bit Prime Number Detector & 1 Detector</a>    
 - Lab 2: Inverter and 3-input NAND  
 - Lab 3: Inverter Layout & NAND Stick Diagram  
 - Lab 4: Standard Cell Design  
