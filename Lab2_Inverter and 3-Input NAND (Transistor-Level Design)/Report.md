@@ -21,13 +21,6 @@
 
 - Waveforms confirmed correct inverter and NAND3 logic operation.     
 
-**Average Propagation Delay calculations**   
-  
-<img width="491" height="173" alt="image" src="https://github.com/user-attachments/assets/3133924b-9658-41f1-8b29-37bd37c0e59b" />   
-
-<img width="522" height="209" alt="image" src="https://github.com/user-attachments/assets/abf8b405-e125-4d2d-bdb6-c194e8d3564d" />   
-
-
 **Delay and Power Results**
 
 | Circuit   | Wp (nm) | Wn (nm) | tpHL (ps) | tpLH (ps) | Avg. Delay (ps) | Avg. Power (nW) |
