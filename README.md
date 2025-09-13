@@ -2,7 +2,7 @@
 
 This repository is a collection of my **Cadence Virtuoso labs and projects** completed in the 
 **VLSI System Design Lab (EE 6540L, Fall 2025)** at Wright State University, as well as 
-independent extensions like an **8-bit CPU/ALU**.  
+independent extensions like an **8-bit CPU/ALU**.
 
 The work is implemented using **45nm CMOS technology** and demonstrates 
 **industry-relevant skills in ASIC/RTL design, digital VLSI, and verification**.
@@ -23,7 +23,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - Lab 6: D Flip-Flop with Preset & Clear  
 - Lab 7: Fast 4-bit Up-Down Counter  
 - Lab 8: 3-to-8 Decoder with optimized EDP  
-- **Final Project: 8-bit CPU/ALU (Cadence Virtuoso)**  
+- **Final Project**: 8-bit CPU/ALU (Cadence Virtuoso)  
 
 ## 📜 Certifications
 - Semiconductor 101 (Cadence University)  
