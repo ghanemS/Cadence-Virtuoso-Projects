@@ -19,7 +19,17 @@
   - Avg. delay ≈ 11.72 ps, power ≈ 533 nW.  
   - Optimized case: delay ≈ 10.05 ps, power ≈ 316 nW at **Wp=160 nm, Wn=180 nm**.  
 
-- Waveforms confirmed correct inverter and NAND3 logic operation.  
+- Waveforms confirmed correct inverter and NAND3 logic operation.     
+
+### Delay and Power Results (Trials)
+
+| Circuit   | Wp (nm) | Wn (nm) | tpHL (ps) | tpLH (ps) | Avg. Delay (ps) | Avg. Power (nW) |
+|-----------|---------|---------|-----------|-----------|-----------------|-----------------|
+| Inverter  | 100     | 100     | 3.44      | 5.05      | 4.24            | 262             |
+| Inverter  | 170     | 110     | 3.84      | 3.86      | 3.85            | 316             |
+| NAND3     | 100     | 100     | 12.19     | 11.26     | 11.72           | 533             |
+| NAND3     | 160     | 180     | 10.09     | 10.01     | 10.05           | 316             |
+  
 
 **Conclusion**  
 - Both circuits were successfully implemented in **45nm CMOS technology**.  
