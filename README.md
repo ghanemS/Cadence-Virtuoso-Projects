@@ -16,7 +16,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
 ## 🧪 Labs & Projects
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/tree/70423858a51e91ff2017a019bbcd6f1524b9db7c/Lab1_PrimeNumberDetector">Lab 1: 4-bit Prime Number Detector & 1 Detector</a>    
-- Lab 2: Inverter and 3-input NAND  
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/tree/2fe7837ca86a91c2baa18d964e08a67d437be8da/Lab2_Inverter%20and%203-Input%20NAND%20(Transistor-Level%20Design)">Lab 2: Inverter and 3-input NAND</a>  
 - Lab 3: Inverter Layout & NAND Stick Diagram  
 - Lab 4: Standard Cell Design  
 - Lab 5: 4-bit Adder/Subtractor (Compound vs Standard Gate)  
