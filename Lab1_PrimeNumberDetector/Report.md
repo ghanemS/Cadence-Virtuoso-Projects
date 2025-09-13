@@ -13,7 +13,7 @@ Design and simulate a 4-bit prime number detector in **Cadence Virtuoso (45nm CM
 - Output went logic-high (≈2.5 V) for prime inputs and logic-low (0 V) otherwise.  
 - Simulation waveform matched the expected truth table.  
 
-**Conclusion**  
+**Conclusion**    
 The 4-bit prime number detector was successfully implemented and verified in **45nm CMOS technology**.  
 This lab demonstrated schematic entry, simulation setup, and logic verification in Cadence Virtuoso.  
 
