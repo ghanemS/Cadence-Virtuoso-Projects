@@ -1,4 +1,4 @@
-# Lab 1: 4-bit Prime Number Detector
+# Lab 1: 4-bit Prime Number Detector & 1 Detector  
 
 **Objective**  
 Design and simulate a 4-bit prime number detector in **Cadence Virtuoso (45nm CMOS)** that outputs logic-high for prime inputs (1, 2, 3, 5, 7, 11, 13).
